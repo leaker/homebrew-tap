@@ -4,7 +4,7 @@ cask "pouch" do
 
   url "https://github.com/leaker/pouch/releases/download/v#{version}/Pouch-#{version}.dmg"
   name "Pouch"
-  desc "Desktop webview wrapper for web games with MITM proxy and script injection"
+  desc "Desktop browser for tweaking any site — inject scripts, swap resources, persist overrides"
   homepage "https://github.com/leaker/pouch"
 
   livecheck do
