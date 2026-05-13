@@ -1,6 +1,6 @@
 cask "pouch" do
-  version "2.0.1"
-  sha256 "154a11e136ba9c568c404fd6217aaad298e0c99d70a676ce8a131a0738d73d6e"
+  version "2.1.1"
+  sha256 "c958e9deef8764aacdb2a56ed051ef1dbf1b96490b540f807d352463fa2886d5"
 
   url "https://github.com/leaker/pouch/releases/download/v#{version}/Pouch-#{version}.dmg"
   name "Pouch"
